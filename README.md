@@ -42,7 +42,8 @@ Dalam sesi ini, kamu akan belajar:
 
 ## 🛠️ Hasil Implementasi
   ![IMG_20250424_190014](https://github.com/user-attachments/assets/8c333da6-c5e3-4c84-880a-04dff5801364)
-  ![IMG_20250424_190050](https://github.com/user-attachments/assets/d733f26d-2281-479b-9ae1-1d0bb7eb2651)
+  ![WhatsApp Image 2025-04-24 at 19 02 23](https://github.com/user-attachments/assets/30aec2ea-1b54-46e2-97f9-fb5fa3f501c8)
+
 
 
 ## 📝 Catatan Tambahan
