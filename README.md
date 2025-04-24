@@ -41,13 +41,8 @@ Dalam sesi ini, kamu akan belajar:
 - **Hot Restart**: me-reload seluruh aplikasi dari awal
 
 ## 🛠️ Hasil Implementasi
-  ![IMG_20250424_185058](https://github.com/user-attachments/assets/2f57a59c-4dc9-47fd-b7c5-399886f7527b)
-![IMG_20250424_184954](https://github.com/user-attachments/assets/109dbba6-c716-4c51-83e6-f29f6cd8c03f)
-![IMG_20250424_184927](https://github.com/user-attachments/assets/d4b99c20-4e33-486f-a037-05f226e99393)
-![IMG_20250424_185041](https://github.com/user-attachments/assets/fe595a7d-1d3b-4e54-b14e-f9e28c1eb749)
-![IMG_20250424_185025](https://github.com/user-attachments/assets/b3f97b36-5d7d-49e3-84d5-2717379b1c54)
-![IMG_20250424_184857](https://github.com/user-attachments/assets/0a41caab-1e9b-4a9b-8908-fcf6adaa71f9)
-
+  ![IMG_20250424_190014](https://github.com/user-attachments/assets/8c333da6-c5e3-4c84-880a-04dff5801364)
+  ![IMG_20250424_190050](https://github.com/user-attachments/assets/d733f26d-2281-479b-9ae1-1d0bb7eb2651)
 
 
 ## 📝 Catatan Tambahan
