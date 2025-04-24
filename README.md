@@ -1,4 +1,4 @@
-
+![a](https://github.com/user-attachments/assets/48fb6a07-7fad-4ed9-b986-881cec33733e)
 # 📱 Building Your First Flutter UI
 
 Repositori ini dibuat sebagai bagian dari pembelajaran Flutter, khususnya pada pertemuan kedua yang membahas dasar-dasar membangun tampilan antarmuka pengguna (UI) pertama menggunakan Flutter.
@@ -42,7 +42,8 @@ Dalam sesi ini, kamu akan belajar:
 
 ## 🛠️ Hasil Implementasi
   ![IMG_20250424_190014](https://github.com/user-attachments/assets/8c333da6-c5e3-4c84-880a-04dff5801364)
-  ![WhatsApp Image 2025-04-24 at 19 02 23](https://github.com/user-attachments/assets/30aec2ea-1b54-46e2-97f9-fb5fa3f501c8)
+  ![a](https://github.com/user-attachments/assets/19121eec-dfc8-402b-b7a1-7a78bbc38922)
+
 
 
 
